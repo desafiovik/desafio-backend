@@ -32,7 +32,6 @@ O fluxo do sistema é: ao logar no sistema o administrador pode realizar os segu
 
 ## **Regras:**
 
-<<<<<<< HEAD
 - Fluxo de login, só precisa logar e fazer logout, não há necessidade de recuperar senha.
 - Uma empresa pode ter vários convites
 - Um usuário pode ser convidado por mais de uma empresa
