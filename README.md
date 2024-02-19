@@ -10,7 +10,7 @@ Desenvolver uma aplicação ruby on rails para gerenciar convites.
 
 ## **Escopo:**
 
-O sistema terá alguns crud.
+O fluxo do sistema é: ao logar no sistema o administrador pode realizar os seguintes cruds:
 
 - Usuários administradores
     - Adicionar
@@ -27,14 +27,11 @@ O sistema terá alguns crud.
     - Listar
     - Excluir
     - Editar
-- Login dos administradores
-    - Login
-    - Logout
-    - Não há necessidade de recuperar senha
 
 ## Regras:
 
-- A empresa pode cadastrar vários convites
+- Fluxo de login, só precisa logar e fazer logout, não há necessidade de recuperar senha.
+- Uma empresa pode ter vários convites
 - Um usuário pode ser convidado por mais de uma empresa
 - Criar um filtro na tela de convites por nome, empresa e/ou intervalo de tempo. Exemplo: Digamos que a empresa A tem 10 convites ativos no mês de Janeiro e em Fevereiro 2 convites foram desativados. Ao realizar o filtro em Janeiro deve aparecer 10 convites e em Fevereiro 8 convites.
 - Escrever testes automatizados;
@@ -47,7 +44,7 @@ O sistema terá alguns crud.
 - Trabalhe requisitos não funcionais como: segurança, performance, disponibilidade, confiabilidade, observabilidade, manutenibilidade.
 - O design das telas fica de sua preferencia, não iremos analisar o design das telas;
 
-## Entrega:
+## **Entrega:**
 
 Crie o projeto suba em um repositório e nos envie o link do repositório para `frankyston.lins@vik.app`
 
