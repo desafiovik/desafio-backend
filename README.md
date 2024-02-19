@@ -1,8 +1,10 @@
-# Desafio Beck-end
+# Desafio Backend
 
 ## **Sobre a VIK**
 
 Somos um programa de saúde inovador voltado para empresas que veio para transformar o mundo corporativo. Com a utilização de gamificação e estímulos diários, a VIK traz uma abordagem envolvente que faz das atividades físicas uma parte divertida e natural do dia a dia.
+
+https://vik.app
 
 ## **Problema:**
 
@@ -12,7 +14,7 @@ Desenvolver uma aplicação ruby on rails para gerenciar convites.
 
 O fluxo do sistema é: ao logar no sistema o administrador pode realizar os seguintes cruds:
 
-- Usuários administradores
+- Administradores
     - Adicionar
     - Listar
     - Excluir
@@ -28,19 +30,19 @@ O fluxo do sistema é: ao logar no sistema o administrador pode realizar os segu
     - Excluir
     - Editar
 
-## Regras:
+## **Regras:**
 
+<<<<<<< HEAD
 - Fluxo de login, só precisa logar e fazer logout, não há necessidade de recuperar senha.
 - Uma empresa pode ter vários convites
 - Um usuário pode ser convidado por mais de uma empresa
 - Criar um filtro na tela de convites por nome, empresa e/ou intervalo de tempo. Exemplo: Digamos que a empresa A tem 10 convites ativos no mês de Janeiro e em Fevereiro 2 convites foram desativados. Ao realizar o filtro em Janeiro deve aparecer 10 convites e em Fevereiro 8 convites.
-- Escrever testes automatizados;
 
 ## **Expectativas:**
 
-- Faça commits atômicos e progressivos;
-- Trabalhe a separação de responsabilidades na aplicação;
-- Trabalhe a representação dos conceitos, faça uso de bons nomes em variáveis, métodos, classes, módulos/namespaces;
+- Faça commits atômicos e progressivos.
+- Trabalhe a separação de responsabilidades na aplicação.
+- Trabalhe a representação dos conceitos, faça uso de bons nomes em variáveis, métodos, classes, módulos/namespaces.
 - Trabalhe requisitos não funcionais como: segurança, performance, disponibilidade, confiabilidade, observabilidade, manutenibilidade.
 - O design das telas fica de sua preferencia, não iremos analisar o design das telas;
 
