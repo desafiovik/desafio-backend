@@ -39,6 +39,7 @@ O fluxo do sistema é: ao logar no sistema o administrador pode realizar os segu
 
 ## **Expectativas:**
 
+- Use o docker para configurar o ambiente.
 - Faça commits atômicos e progressivos.
 - Trabalhe a separação de responsabilidades na aplicação.
 - Trabalhe a representação dos conceitos, faça uso de bons nomes em variáveis, métodos, classes, módulos/namespaces.
