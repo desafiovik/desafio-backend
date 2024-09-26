@@ -34,6 +34,7 @@ O fluxo do sistema é: ao logar no sistema o administrador pode realizar os segu
 
 - Fluxo de login, só precisa logar e fazer logout, não há necessidade de recuperar senha.
 - Uma empresa pode ter vários convites
+- Para poder acessar o sistema, um novo usuário deverá receber um convite
 - Um usuário pode ser convidado por mais de uma empresa
 - Criar um filtro na tela de convites por nome, empresa e/ou intervalo de tempo. Exemplo: Digamos que a empresa A tem 10 convites ativos no mês de Janeiro e em Fevereiro 2 convites foram desativados. Ao realizar o filtro em Janeiro deve aparecer 10 convites e em Fevereiro 8 convites.
 
