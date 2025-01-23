@@ -48,7 +48,7 @@ O fluxo do sistema é: ao logar no sistema o administrador pode realizar os segu
 
 ## **Entrega:**
 
-Crie o projeto suba em um repositório e nos envie o link do repositório para `frankyston.lins@vik.app`
+Crie o projeto suba em um repositório e nos envie o link do repositório para `luis.amorim@vik.app`
 
 ## **Contexto: O que utilizamos / fazemos na VIK.**
 
