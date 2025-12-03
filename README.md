@@ -52,7 +52,7 @@ Crie o projeto suba em um repositório e nos envie o link do repositório para `
 
 ## **Contexto: O que utilizamos / fazemos na VIK.**
 
-1. Ruby 3.2.2 e Rails 7.1.3.2; Então pedimos que teu teste use dessas versões para cima.
+1. Ruby 3.2.2 e Rails 7.1.3.4; Então pedimos que teu teste use dessas versões para cima.
 2. Fazemos uso de casos de uso para encapsular as regras negócio. Ou seja, nós não implementamos o código diretamente nos controllers, models, jobs. Todo ponto de entrada delega a operação para um caso de uso (1).
 3. Testes: Rspec, factory bot, shoulda matchers.
 4. Namespaces: Curtimos muito modularizar o código, ao agrupar classes, módulos, constantes que tenham relação ao conceito / domínio que representam.
